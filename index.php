@@ -4,11 +4,7 @@
 
    <meta http-equiv="X-UA-Compatible" content="IE=10">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-<<<<<<< HEAD
-   <title>Course Finder UI v1.0</title>
-=======
    <title>Course Finder UI v01</title>
->>>>>>> c3598b0f51e94f705d8b93861aec4ea3551b4ade
    <meta name="description" content="">
    <meta name="keywords" content="">
    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -90,11 +86,8 @@ border-radius: 5px;
 position: absolute;bottom: 20px;left:10px;z-index:800}
 
 .geocode-link {
-<<<<<<< HEAD
-background-image: url(./static/images/geocode.png);
-=======
+
 background-image: url(/visual4/static/images/geocode.png);
->>>>>>> c3598b0f51e94f705d8b93861aec4ea3551b4ade
 width: 36px;
 height: 36px;
 background-position: 50% 50%;
